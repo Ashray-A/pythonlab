@@ -1,0 +1,24 @@
+num_list = [2, 3, 5, 7, 8, 9, 12, 16]
+for num in num_list:
+        if (num * num) % 8 == 0:
+            print(num)
+
+
+if(amount > 2999)
+    print("You are eligible to purchase an item")
+if(amount > 2999)
+
+
+
+num_list = [2, 3, 5, 7, 8, 9, 12, 16]
+num_list[8]
+
+
+int('67.5')
+
+
+a ='67.5'
+print(type(a))
+a = 2
+b = 'DataCamp'
+a + b

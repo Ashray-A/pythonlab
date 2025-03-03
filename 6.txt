@@ -1,0 +1,10 @@
+time = int(input("Enter the time: "))
+wage = int(input("Enter the wage: "))
+def calculate(time,wage):
+    if time>60:
+        return 2*time*wage
+    elif time>40:
+        return 1.5*time*wage
+    else:
+        return time*wage
+print(calculate(time,wage))

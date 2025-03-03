@@ -1,0 +1,12 @@
+agencies = {"CBI": "Central Bureau of investigation",
+"FBI":"Foreign direct investment", "NIA": "National investion agency",
+"SSB":"Service  selection board",
+"WBA" : "Works Progress administration" }
+print (agencies)
+print ("******")
+agencies ["BSE"] = "Bombay stock exchange"
+print (agencies)
+agencies["SSB"] = "Service Sentre Board"
+print (agencies)
+del(agencies["WBA"])
+print (agencies)
